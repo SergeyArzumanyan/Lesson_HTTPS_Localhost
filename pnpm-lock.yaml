@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       selfsigned:
-        specifier: ^2.1.1
+        specifier: ^2.4.1
         version: 2.4.1
 
 packages:

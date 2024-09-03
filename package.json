@@ -6,6 +6,6 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "selfsigned": "^2.1.1"
+    "selfsigned": "^2.4.1"
   }
 }
