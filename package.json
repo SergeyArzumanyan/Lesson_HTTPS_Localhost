@@ -1,0 +1,11 @@
+{
+  "name": "lesson_https_localhost",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "selfsigned": "^2.1.1"
+  }
+}
